@@ -1,0 +1,101 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="CSharp_4_0_Training.Overload_Resolution" type="MsTestTestClassElement" TypeName="CSharp_4_0_Training.Overload_Resolution" Project="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB" />
+        <UnitTestElement Provider="MSTest" Id="CSharp_4_0_Training.Parameter_Overloading" type="MsTestTestClassElement" TypeName="CSharp_4_0_Training.Parameter_Overloading" Project="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB" />
+        <UnitTestElement Provider="MSTest" Id="CSharp_4_0_Training.Parameter_Overloading.Constructor_OptionalParameters" ParentId="CSharp_4_0_Training.Parameter_Overloading" type="MsTestTestMethodElement" MethodName="Constructor_OptionalParameters" Project="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB" />
+        <UnitTestElement Provider="MSTest" Id="CSharp_4_0_Training.Parameter_Overloading.NamedParameters" ParentId="CSharp_4_0_Training.Parameter_Overloading" type="MsTestTestMethodElement" MethodName="NamedParameters" Project="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB" />
+        <UnitTestElement Provider="MSTest" Id="CSharp_4_0_Training.Parameter_Overloading.OptionalParameters" ParentId="CSharp_4_0_Training.Parameter_Overloading" type="MsTestTestMethodElement" MethodName="OptionalParameters" Project="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB" />
+        <UnitTestElement Provider="MSTest" Id="CSharp_4_0_Training.Overload_Resolution.Overload_Resolution_001" ParentId="CSharp_4_0_Training.Overload_Resolution" type="MsTestTestMethodElement" MethodName="Overload_Resolution_001" Project="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="1238" fromTop="15" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Overload_Resolution.cs" caret="1040" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="270" fromTop="12" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="448" fromTop="17" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="705" fromTop="26" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="1831" fromTop="15" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="2089" fromTop="14" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="2480" fromTop="28" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="1422" fromTop="18" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Parameter_Overloading.cs" caret="1274" fromTop="15" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Overload_Resolution.cs" caret="1639" fromTop="30" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Overload_Resolution.cs" caret="482" fromTop="3" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Overload_Resolution.cs" caret="1622" fromTop="31" />
+      <File id="1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB/f:Overload_Resolution.cs" caret="1040" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="int" priority="319" />
+      <Item value="string" priority="127" />
+      <Item value="Method`0" priority="191" />
+      <Item value="public" priority="223" />
+      <Item value="void" priority="191" />
+      <Item value="b" priority="95" />
+      <Item value="a" priority="95" />
+      <Item value="private" priority="255" />
+      <Item value="return" priority="95" />
+      <Item value="GetB`0" priority="31" />
+      <Item value="GetA`0" priority="31" />
+      <Item value="Debug`0" priority="127" />
+      <Item value="class" priority="31" />
+      <Item value="Rifle`0" priority="31" />
+      <Item value="GetHashCode`0" priority="31" />
+      <Item value="AppDomainSetup`0" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="attackPower" priority="63" />
+      <Item value="model" priority="95" />
+      <Item value="TestMethod" priority="31" />
+      <Item value="AttackPower" priority="31" />
+      <Item value="Model" priority="31" />
+      <Item value="var" priority="95" />
+      <Item value="new" priority="95" />
+      <Item value="Rifle" priority="86" />
+      <Item value="x" priority="191" />
+      <Item value="y" priority="95" />
+      <Item value="GetAttackPower`0" priority="63" />
+      <Item value="static" priority="31" />
+      <Item value="DoSomething`0" priority="255" />
+      <Item value="double" priority="31" />
+      <Item value="true" priority="31" />
+      <Item value="g" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="107" />
+      <Item value="Write`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CSharp_4_0_Training.Parameter_Overloading+Rifle">
+      <Item value="AttackPower" priority="53" />
+      <Item value="Model" priority="26" />
+      <Item value="Output`0" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

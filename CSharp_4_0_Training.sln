@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_4_0_Training", "CSharp_4_0_Training.csproj", "{1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{55C106DE-9226-4D1C-98D7-9CF91C5FBCD0}"
+	ProjectSection(SolutionItems) = preProject
+		CSharp_4_0_Training.vsmdi = CSharp_4_0_Training.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://s01.tfshosted.com/tfs/edenr9
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CSharp_4_0_Training.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CSharp_4_0_Training.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF9016C-90D6-467E-A2A3-D1B3F1FEC1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

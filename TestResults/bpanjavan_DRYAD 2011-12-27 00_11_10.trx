@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="71d1af1b-1fd0-4852-90af-c851d3824328" name="bpanjavan@DRYAD 2011-12-27 00:11:10" runUser="Dryad\bpanjavan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="72ca55e6-32c8-4c98-8c36-f0b955adf02f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="bpanjavan_DRYAD 2011-12-27 00_11_10" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-27T00:11:10.0570000-06:00" queuing="2011-12-27T00:11:17.6470000-06:00" start="2011-12-27T00:11:17.8930000-06:00" finish="2011-12-27T00:11:20.2720000-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\sandbox2\vs2010\csharp_4_0_training\bin\debug\csharp_4_0_training.dll" id="9b4351f2-aa1a-79dd-02ef-05859b2bf55e">
+      <Execution id="3c8f8c9d-4378-4085-9373-2a6769d7482b" />
+      <TestMethod codeBase="C:/Sandbox2/VS2010/CSharp_4_0_Training/bin/Debug/CSharp_4_0_Training.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CSharp_4_0_Training.UnitTest1, CSharp_4_0_Training, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="NamedParameters" storage="c:\sandbox2\vs2010\csharp_4_0_training\bin\debug\csharp_4_0_training.dll" id="a81e97b9-79ea-87d0-decd-2f2a853846fc">
+      <Execution id="a6c7911d-4cae-428d-87c7-b84db53b1975" />
+      <TestMethod codeBase="C:/Sandbox2/VS2010/CSharp_4_0_Training/bin/Debug/CSharp_4_0_Training.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CSharp_4_0_Training.Parameter_Overloading, CSharp_4_0_Training, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NamedParameters" />
+    </UnitTest>
+    <UnitTest name="OptionalParameters" storage="c:\sandbox2\vs2010\csharp_4_0_training\bin\debug\csharp_4_0_training.dll" id="0dfc2c60-f3ce-b521-04e9-5e4436d8cd2c">
+      <Execution id="69eeb60d-402b-4fb9-a9be-df0386bd6941" />
+      <TestMethod codeBase="C:/Sandbox2/VS2010/CSharp_4_0_Training/bin/Debug/CSharp_4_0_Training.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CSharp_4_0_Training.Parameter_Overloading, CSharp_4_0_Training, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OptionalParameters" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9b4351f2-aa1a-79dd-02ef-05859b2bf55e" executionId="3c8f8c9d-4378-4085-9373-2a6769d7482b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0dfc2c60-f3ce-b521-04e9-5e4436d8cd2c" executionId="69eeb60d-402b-4fb9-a9be-df0386bd6941" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a81e97b9-79ea-87d0-decd-2f2a853846fc" executionId="a6c7911d-4cae-428d-87c7-b84db53b1975" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3c8f8c9d-4378-4085-9373-2a6769d7482b" testId="9b4351f2-aa1a-79dd-02ef-05859b2bf55e" testName="TestMethod1" computerName="DRYAD" duration="00:00:00.0347682" startTime="2011-12-27T00:11:18.1080000-06:00" endTime="2011-12-27T00:11:19.7920000-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3c8f8c9d-4378-4085-9373-2a6769d7482b">
+    </UnitTestResult>
+    <UnitTestResult executionId="69eeb60d-402b-4fb9-a9be-df0386bd6941" testId="0dfc2c60-f3ce-b521-04e9-5e4436d8cd2c" testName="OptionalParameters" computerName="DRYAD" duration="00:00:00.0090776" startTime="2011-12-27T00:11:19.8570000-06:00" endTime="2011-12-27T00:11:19.9220000-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="69eeb60d-402b-4fb9-a9be-df0386bd6941">
+      <Output>
+        <DebugTrace>a: 42, b: The answer
+a: 42, b: Test
+a: 20, b: Test
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a6c7911d-4cae-428d-87c7-b84db53b1975" testId="a81e97b9-79ea-87d0-decd-2f2a853846fc" testName="NamedParameters" computerName="DRYAD" duration="00:00:00.0036148" startTime="2011-12-27T00:11:19.9550000-06:00" endTime="2011-12-27T00:11:19.9800000-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6c7911d-4cae-428d-87c7-b84db53b1975">
+      <Output>
+        <DebugTrace>a: 42, b: The answer
+a: 56, b: The answer given first
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
