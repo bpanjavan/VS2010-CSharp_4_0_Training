@@ -3,3 +3,8 @@ C:\Sandbox2\VS2010\CSharp_4_0_Training\bin\Debug\CSharp_4_0_Training.pdb
 C:\Sandbox2\VS2010\CSharp_4_0_Training\obj\Debug\ResolveAssemblyReference.cache
 C:\Sandbox2\VS2010\CSharp_4_0_Training\obj\Debug\CSharp_4_0_Training.dll
 C:\Sandbox2\VS2010\CSharp_4_0_Training\obj\Debug\CSharp_4_0_Training.pdb
+C:\SandBoxGitHub\VS2010\CSharp_4_0_Training\bin\Debug\CSharp_4_0_Training.dll
+C:\SandBoxGitHub\VS2010\CSharp_4_0_Training\bin\Debug\CSharp_4_0_Training.pdb
+C:\SandBoxGitHub\VS2010\CSharp_4_0_Training\obj\Debug\ResolveAssemblyReference.cache
+C:\SandBoxGitHub\VS2010\CSharp_4_0_Training\obj\Debug\CSharp_4_0_Training.dll
+C:\SandBoxGitHub\VS2010\CSharp_4_0_Training\obj\Debug\CSharp_4_0_Training.pdb
