@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CSharp_4_0_Training
 {
-    // Test change for GitHub
+    // Test revert change for GitHub
 
     /// <summary>
     /// Summary description for UnitTest1
