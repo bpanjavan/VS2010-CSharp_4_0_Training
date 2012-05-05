@@ -49,6 +49,7 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoContraVariance.cs" />
     <Compile Include="Overload_Resolution.cs" />
     <Compile Include="Parameter_Overloading.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9ae8c4ca-c630-4075-98ac-a92363cdcb91" name="bpanjavan@VALEFOR 2012-05-05 01:24:35" runUser="Valefor\bpanjavan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="72ca55e6-32c8-4c98-8c36-f0b955adf02f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="bpanjavan_VALEFOR 2012-05-05 01_24_35" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-05T01:24:35.3276484-05:00" queuing="2012-05-05T01:24:42.1070362-05:00" start="2012-05-05T01:24:42.3840520-05:00" finish="2012-05-05T01:25:23.1723850-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="VALEFOR" outcome="Error" timestamp="2012-05-05T01:25:23.1703849-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ContraVariance" storage="c:\sandboxgithub\vs2010\vs2010-csharp_4_0_training\bin\debug\csharp_4_0_training.dll" id="4abb23c8-2a36-0317-5e00-dd453ffa9dc1">
+      <Execution id="33b62c66-511f-4096-ae33-015760aacb44" />
+      <TestMethod codeBase="C:/SandBoxGitHub/VS2010/VS2010-CSharp_4_0_Training/bin/Debug/CSharp_4_0_Training.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CSharp_4_0_Training.CoContraVariance, CSharp_4_0_Training, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ContraVariance" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4abb23c8-2a36-0317-5e00-dd453ffa9dc1" executionId="33b62c66-511f-4096-ae33-015760aacb44" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="33b62c66-511f-4096-ae33-015760aacb44" testId="4abb23c8-2a36-0317-5e00-dd453ffa9dc1" testName="ContraVariance" computerName="VALEFOR" duration="00:00:40.6213234" startTime="2012-05-05T01:24:42.5500615-05:00" endTime="2012-05-05T01:25:23.1713849-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33b62c66-511f-4096-ae33-015760aacb44">
+    </UnitTestResult>
+  </Results>
+</TestRun>

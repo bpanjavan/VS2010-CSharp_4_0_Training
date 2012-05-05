@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f660bac7-7024-4739-9ff8-d82c9a3017c2" name="bpanjavan@VALEFOR 2012-05-05 01:37:33" runUser="Valefor\bpanjavan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="72ca55e6-32c8-4c98-8c36-f0b955adf02f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="bpanjavan_VALEFOR 2012-05-05 01_37_33" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-05T01:37:33.6601665-05:00" queuing="2012-05-05T01:37:33.6951685-05:00" start="2012-05-05T01:37:33.7061691-05:00" finish="2012-05-05T01:37:34.2331993-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ContraVariance_2" storage="c:\sandboxgithub\vs2010\vs2010-csharp_4_0_training\bin\debug\csharp_4_0_training.dll" id="00b85bd3-8395-aa36-cb46-f583e143037c">
+      <Execution id="5296a242-a886-4b77-9733-fed9f89e4ad7" />
+      <TestMethod codeBase="C:/SandBoxGitHub/VS2010/VS2010-CSharp_4_0_Training/bin/Debug/CSharp_4_0_Training.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CSharp_4_0_Training.CoContraVariance, CSharp_4_0_Training, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ContraVariance_2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="00b85bd3-8395-aa36-cb46-f583e143037c" executionId="5296a242-a886-4b77-9733-fed9f89e4ad7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5296a242-a886-4b77-9733-fed9f89e4ad7" testId="00b85bd3-8395-aa36-cb46-f583e143037c" testName="ContraVariance_2" computerName="VALEFOR" duration="00:00:00.1668442" startTime="2012-05-05T01:37:33.7981744-05:00" endTime="2012-05-05T01:37:34.2021975-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5296a242-a886-4b77-9733-fed9f89e4ad7">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method CSharp_4_0_Training.CoContraVariance.ContraVariance_2 threw exception: 
+System.InvalidCastException: Unable to cast object of type 'System.Func`1[System.Object]' to type 'System.Func`1[System.String]'.</Message>
+          <StackTrace>    at CSharp_4_0_Training.CoContraVariance.ContraVariance_2() in C:\SandBoxGitHub\VS2010\VS2010-CSharp_4_0_Training\CoContraVariance.cs:line 41
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
